@@ -1,6 +1,10 @@
 .important{
     color: red;
+    background-color: black;
 }
 .unimportant{
     color: blue;
+    background-color: aqua;
 }
+.span-unimportant{
+    background-color: black;}
