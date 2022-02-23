@@ -11,3 +11,10 @@
    image{
        float: right;
    }
+   .box-model{
+       border: 2px solid red;
+        padding: 10px;
+        padding-left: 10px;
+        padding-top: 10px;
+        margin: 20px;
+     }
